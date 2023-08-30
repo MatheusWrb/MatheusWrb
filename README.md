@@ -1,4 +1,4 @@
-### Iai! Meu nome é Matheus Wolf
+### Meu nome é Matheus Wolf
 
 - 🔭 Hoje não estou trabalhando, apenas no estudo
 - 🌱 Estudando a linguagem Java
